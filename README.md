@@ -8,4 +8,4 @@ Horiseon specializes in helping businesses succeed by focusing on search engine 
 
 ![](Develop/assets/images/Horiseon.png)
 
-<a href="file:///Users/mohamedalfaily/Desktop/All-About-Accessibility/Develop/index.html">Link to Horiseon website</a>
+<a href="file:///Users/mohamedalfaily/Desktop/All-About-Accessibility/Develop/index.html">Click here!</a>
