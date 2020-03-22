@@ -7,5 +7,3 @@ Horiseon specializes in helping businesses succeed by focusing on search engine 
 ## Check us out!
 
 ![](Develop/assets/images/Horiseon.png)
-
-<a href="file:///Users/mohamedalfaily/Desktop/All-About-Accessibility/Develop/index.html">Click here!</a>
