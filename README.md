@@ -6,7 +6,7 @@ Horiseon specializes in helping businesses succeed by focusing on **search engin
 
 ## Check us out
 
-![](Develop/assets/images/Horiseon.png)
+![](assets/images/Horiseon.png)
 
 ## Click the link!
 
